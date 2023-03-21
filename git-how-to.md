@@ -1,0 +1,3 @@
+- Wide on wide
+- Narrow on narrow
+- Given - answer
